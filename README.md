@@ -9,6 +9,7 @@ go get .
 ## Run
 
 In one of the terminals run (this acts as server which will be running on localhost:7771)
+
 `go run main.go`
 
 In another terminal enter below command for POST request
